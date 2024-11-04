@@ -31,13 +31,16 @@ Pansharpening is the process of integrating two heterogeneous re-mote sensing im
 #### The overall framework:
 <br>
 <img src="charts/framework.png" align=center />
+
 #### The AEIMs in each branch:
 <br>
 <img src="charts/AEIMs.png" align=center />
+
 #### The efficiency of MMAPP:
 <br>
 <img src="charts/Efficiency.png" align=center />
 Note: Our other work RSANet performs best in terms of model parameters that can be exploited in constrained application scenarios, for more details see [RSANet](https://github.com/JUSTM0VE0N/RSANet).
+
 #### Efficiency & Performance:
 <br>
 <img src="charts/EP.png" align=center />
