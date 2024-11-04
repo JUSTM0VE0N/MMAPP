@@ -16,5 +16,5 @@ ______________________________________________________________________
  </p>
 
 
-[![python](https://img.shields.io/badge/python-%20%203.9-blue.svg)]()
+[![python](https://img.shields.io/badge/python-%20%203.8-blue.svg)]()
 [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/JUSTM0VE0N/MMAPP/blob/main/LICENSE)
