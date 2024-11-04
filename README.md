@@ -11,9 +11,6 @@ ______________________________________________________________________
 <a href="#Method">Method</a> •
 <a href="#Dependencies">Installation</a> •
 <a href="#Dataset">Dataset</a>
-</p>
-
-<p align="center">
 <a href="#Training">Training</a> •
 <a href="#Testing">Testing</a> •
 <a href="#Pre-trained-models-and-results">Weights</a> •
