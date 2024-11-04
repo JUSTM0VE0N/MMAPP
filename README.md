@@ -14,9 +14,8 @@ ______________________________________________________________________
   
 <a href="#Training">Training</a> •
 <a href="#Testing">Testing</a> •
-  <a href="#Pre-trained-models-and-results">Weights</a> •
-  <a href="#Citation">Citation</a><br> •
-<a href="#Contact">Contact</a><br>
+<a href="#Pre-trained-models-and-results">Weights</a> •
+<a href="#Citation">Citation</a><br> • <a href="#Contact">Contact</a><br>
  </p>
 
 [![python](https://img.shields.io/badge/python-%20%203.8-blue.svg)]()
