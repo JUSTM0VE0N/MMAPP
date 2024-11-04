@@ -5,6 +5,8 @@
 **Multi-branch and Multi-scale Adaptive Progressive Pyramid Network for Multispectral Image Pansharpening.**
 
 ______________________________________________________________________
+
+<p align="center">
 <a href="https://ieeexplore.ieee.org/document/10741347">Paper</a> •
 <a href="#Abstract">Abstract</a> •
 <a href="#Method">Method</a> •
@@ -13,7 +15,8 @@ ______________________________________________________________________
 <a href="#Training">Training</a> •
 <a href="#Testing">Testing</a> •
 <a href="#Pre-trained-models-and-results">Weights</a> •
-<a href="#Citation">Citation</a><br> • 
+<a href="#Citation">Citation</a><br>
+</p>
 
 [![python](https://img.shields.io/badge/python-%20%203.8-blue.svg)]()
 [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/JUSTM0VE0N/MMAPP/blob/main/LICENSE)
