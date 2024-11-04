@@ -26,7 +26,7 @@ ______________________________________________________________________
 ______________________________________________________________________
 ### What's New
 - **[November 4th, 2024]**: The code of MMAPP is available.
-- **[November 1st, 2024]**: After 500 days, the paper of MMAPP was published: [MMAPP: Multi-branch and Multi-scale Adaptive Progressive Pyramid Network for Multispectral Image Pansharpening](https://ieeexplore.ieee.org/document/10741347).
+- **[November 1st, 2024]**: After 500 days, the paper of MMAPP is published: [MMAPP: Multi-branch and Multi-scale Adaptive Progressive Pyramid Network for Multispectral Image Pansharpening](https://ieeexplore.ieee.org/document/10741347).
 - **[June 21th 2023]**: MMAPP is first submission!!!
 
 
