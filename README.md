@@ -14,3 +14,7 @@ ______________________________________________________________________
   <a href="#pre-trained-models-and-results">Logs</a> •
   <a href="#citation">Citation</a><br>
  </p>
+
+
+[![python](https://img.shields.io/badge/python-%20%203.9-blue.svg)]()
+[![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/JUSTM0VE0N/MMAPP/blob/main/LICENSE)
