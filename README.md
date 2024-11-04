@@ -29,7 +29,7 @@ Pansharpening is the process of integrating two heterogeneous re-mote sensing im
 ### Method
 The overall framework:
 <br>
-<img src="charts/framework.png" width = "800" height = "200" alt="" align=center />
+<img src="charts/framework.png" align=center />
 The AEIMs in each branch:
 <br>
-<img src="charts/AEIMs.png" width = "800" height = "200" alt="" align=center />
+<img src="charts/AEIMs.png" align=center />
