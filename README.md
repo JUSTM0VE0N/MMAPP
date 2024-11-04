@@ -83,7 +83,7 @@ You can easily integrate your methodology into our framework.
 ```bash
 $ cd MMAPP
 # An example command for training
-$ python train.py --option_path option.yaml
+$ python train.py --option_path option.yml
 ```
 
 During the training, tensorboard logs are saved under the experiments directory. To run the tensorboard:
@@ -101,7 +101,7 @@ With only batch size 1 is recomended.
 $ cd ./
 
 # An example command for testing
-$ python test.py --option_path option.yaml
+$ python test.py --option_path option.yml
 ```
 
 
