@@ -14,7 +14,8 @@ ______________________________________________________________________
 <a href="#Training">Training</a> •
 <a href="#Testing">Testing</a> •
   <a href="#Pre-trained-models-and-results">Weights</a> •
-  <a href="#Citation">Citation</a><br>
+  <a href="#Citation">Citation</a><br> •
+  <a href="#Contact">Contact</a><br>
  </p>
 
 [![python](https://img.shields.io/badge/python-%20%203.8-blue.svg)]()
@@ -100,7 +101,7 @@ $ python test.py --option_path option.yaml
 
 ### Pre-trained Models and Results
 
-We provide the trained models at [checkpoints](https://drive.google.com/drive/folders/1a1MHpIyma891RgKhqhaz6poo8d_XBHF3).
+We provide the trained models at [download link](https://drive.google.com/drive/folders/1a1MHpIyma891RgKhqhaz6poo8d_XBHF3).
 
 
 ### Citation
@@ -118,3 +119,6 @@ This paper is published in JSTARS 2024.
   keywords={Remote sensing;multimodal data;panchromatic image;multispectral image;image fusion},
   doi={10.1109/JSTARS.2024.3490755}}
 ```
+
+### Contact
+We are glad to hear from you. If you have any questions, please feel free to contact us.
