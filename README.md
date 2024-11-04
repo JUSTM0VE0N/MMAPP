@@ -6,7 +6,7 @@
 
 ______________________________________________________________________
 <p align="center">
-  <a href="https://ieeexplore.ieee.org/document/10741347">paper</a> •
+  <a href="https://ieeexplore.ieee.org/document/10741347">Paper</a> •
   <a href="#Abstract">Abstract</a> •
   <a href="#Method">Method</a> •
     <a href="#Dependencies">Installation</a> •
