@@ -9,10 +9,10 @@ ______________________________________________________________________
 <a href="#Abstract">Abstract</a> •
 <a href="#Method">Method</a> •
 <a href="#Dependencies">Installation</a> •
-<a href="#Dataset">Dataset</a>  
-
+<a href="#Dataset">Dataset</a> •
 <a href="#Training">Training</a> •
-<a href="#Testing">Testing</a> •
+<a href="#Testing">Testing</a> •  
+
 <a href="#Pre-trained-models-and-results">Weights</a> •
 <a href="#Citation">Citation</a><br> • 
 <a href="#Dataset">Dataset</a>  
