@@ -19,12 +19,12 @@ ______________________________________________________________________
 </p>
 
 [![python](https://img.shields.io/badge/python-%20%203.7-blue.svg)]()
-[![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/JUSTM0VE0N/MMAPP/blob/main/LICENSE)
 
 </div>
 
 ______________________________________________________________________
 ### What's New
+- **[November 7th, 2024]**: Our other work, [CF2N](https://github.com/JUSTM0VE0N/CF2N), is published.
 - **[November 4th, 2024]**: The code of MMAPP is available.
 - **[November 1st, 2024]**: After 500 days, the paper of MMAPP is published: [MMAPP: Multi-branch and Multi-scale Adaptive Progressive Pyramid Network for Multispectral Image Pansharpening](https://ieeexplore.ieee.org/document/10741347).
 - **[June 21th, 2023]**: MMAPP is first submission!!!
